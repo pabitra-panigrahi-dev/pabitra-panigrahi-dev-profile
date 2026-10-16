@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pabitra Panigrahi</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️ DevOps Engineer | 🔍 SEO Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra-panigrahi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra-panigrahi-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabitra-panigrahi-dev" alt="pabitra-panigrahi-dev" /></a> </p>
 
 - 💬 Ask me about **💻 Full Stack Development — React, Next.js, Node.js, REST APIs, and databases ☁️ DevOps & Cloud — Docker, CI/CD, GitHub Actions, Linux, AWS, and deployment automation 🔍 SEO & Web Optimization — Technical SEO, keyword research, Core Web Vitals, and website performance ⚡ Web Performance — Speed optimization, responsive design, and scalable applications 🛠️ Developer Tools — Git, GitHub, automation, and development workflows**
 
-- 📫 How to reach me **pabitra.panigrahi.devops@gmail.com**
+- 📫 How to reach me **pabitra.panigrahi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
